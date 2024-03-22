@@ -49,9 +49,6 @@ This will start the Flask server, and the application will be accessible at `htt
 Once the application is running, it will listen for incoming GitHub webhook events. When a new comment is added to a GitHub issue and it contains the "/jira" command, the application will create a corresponding JIRA ticket using the provided information.
 
 
-![Example Screenshot](images/1.png)
-![Example Screenshot](images/2.png)
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
